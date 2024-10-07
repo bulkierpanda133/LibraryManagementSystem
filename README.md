@@ -1,4 +1,4 @@
-Library Management System - README
+Library Management System 
 Overview
 This is a command-line-based Library Management System built using Python, following Object-Oriented Programming (OOP) principles. It enables users to manage books, users, and authors, providing features like borrowing and returning books, managing reservations, and handling fines for overdue books.
 
